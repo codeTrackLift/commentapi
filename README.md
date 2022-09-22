@@ -10,7 +10,7 @@ To start the server, from the root of the project, run:
 
 > `npm start`
 
-This starts the server with nodemon.  Server endpoints can be hit using an application list `Postman`.
+This starts the server on port 3000 with nodemon.  Server endpoints can be hit using an application list `Postman`.
 
 ## API Endpoints
 > Header: "Content-Type", "application/json"
